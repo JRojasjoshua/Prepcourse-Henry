@@ -1,1 +1,1 @@
-este proyecto es una prueba de comocrear un repositorio y clonarlo desde nuestro git hub
+este es un proyecto de segundo intento de como crear un repositorio y clonarlo desde git bash
